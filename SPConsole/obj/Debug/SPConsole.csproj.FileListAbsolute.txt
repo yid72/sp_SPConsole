@@ -1,0 +1,14 @@
+D:\Workspace\SPConsole\SPConsole\bin\Debug\SPConsole.exe.config
+D:\Workspace\SPConsole\SPConsole\bin\Debug\SPConsole.exe.manifest
+D:\Workspace\SPConsole\SPConsole\bin\Debug\SPConsole.application
+D:\Workspace\SPConsole\SPConsole\bin\Debug\SPConsole.exe
+D:\Workspace\SPConsole\SPConsole\bin\Debug\SPConsole.pdb
+D:\Workspace\SPConsole\SPConsole\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Workspace\SPConsole\SPConsole\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Workspace\SPConsole\SPConsole\obj\Debug\SPConsole.csprojResolveAssemblyReference.cache
+D:\Workspace\SPConsole\SPConsole\obj\Debug\SPConsole.Properties.Resources.resources
+D:\Workspace\SPConsole\SPConsole\obj\Debug\SPConsole.csproj.GenerateResource.Cache
+D:\Workspace\SPConsole\SPConsole\obj\Debug\SPConsole.exe.manifest
+D:\Workspace\SPConsole\SPConsole\obj\Debug\SPConsole.application
+D:\Workspace\SPConsole\SPConsole\obj\Debug\SPConsole.exe
+D:\Workspace\SPConsole\SPConsole\obj\Debug\SPConsole.pdb
